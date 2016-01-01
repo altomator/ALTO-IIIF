@@ -1,15 +1,17 @@
-## Extracting illustrations from ALTO files
-*With IIIF*
+## Extracting illustrations from ALTO files With IIIF
+
 
 ### Synopsis
  
 
 ### Installation
-You will need:
-3 Perl  scripts :
-- cmd.dos
-- 
+You will need 4 scripts :
+1. filterIMG.sh (shell)
+2. processURLs.pl (Perl)
+3. extractIMG.pl (Perl)
+4. extractMD.pl (Perl)
 
+A batch.sh script chains the commands.
 
 The documents must be stored in a "DOCS" folder.
 The images will be generated in a "IMG" folder.
