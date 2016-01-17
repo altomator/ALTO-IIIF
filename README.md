@@ -2,7 +2,7 @@
 
 
 ### Synopsis
- 
+Extracting illustrations described in OCRed documents (ALTO format) with IIIF API. 
 
 ### Installation
 You will need 4 scripts :
@@ -16,13 +16,13 @@ A batch.sh script chains the commands.
 
 The documents must be stored in a "DOCS" folder.
 The images will be generated in a "IMG" folder.
-
+The metadata will be generated in a "MD" folder.
 
 ### Tests
-1. Open a command line.
+1. Open a command line terminal.
 2. > filterIMG.sh
-2. > perl traiterURLs.pl illustrations.txt
-3. > perl extractIMG.pl illustrations.txt_URL 200   -- 
+2. > perl processURLs.pl illustrations.txt
+3. > perl extractIMG.pl illustrations.txt_URL 200   --  minimal size in Ko of the extracted images
 4. > perl extractMD.pl illustrations.txt_URL
 
 
