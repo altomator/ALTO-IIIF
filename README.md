@@ -8,11 +8,8 @@
 You will need 4 scripts :
 
 1. filterIMG.sh (shell)
-
 2. processURLs.pl (Perl)
-
 3. extractIMG.pl (Perl)
-
 4. extractMD.pl (Perl)
 
 A batch.sh script chains the commands.
