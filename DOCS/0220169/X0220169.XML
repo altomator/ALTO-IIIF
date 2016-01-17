@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<refNum xmlns="http://bibnum.bnf.fr/ns/refNum" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bibnum.bnf.fr/ns/refNum http://bibnum.bnf.fr/ns/refNum.xsd http://bibnum.bnf.fr/ns/detailsOperation http://bibnum.bnf.fr/ns/detailsOperation.xsd">
+<document identifiant="0220169" numper="400">
+<bibliographie>
+<genre>PERIODIQUE</genre>
+<titre>La Croix (1880)</titre>
+<auteur>Bayard</auteur>
+<editeur>La Croix (Paris)</editeur>
+<dateEdition>1880-1968</dateEdition>
+<tomaison>
+<type>Numéro </type>
+<valeur>6311</valeur>
+</tomaison>
+<nombrePages>4</nombrePages>
+<reference type="NOTICEBIBLIOGRAPHIQUE">ark:/12148/cb343631418</reference>
+<reference type="IDDOCUMENT">demande : 684841</reference>
+</bibliographie>
+<production>
+<dateNumerisation>2006-06-01</dateNumerisation>
+<nombreVueObjets>4</nombreVueObjets>
+<nombreImages>4</nombreImages>
+<identifiantSupport>44000219</identifiantSupport>
+<identifiantSupport ordre="2">302</identifiantSupport>
+<objetAssocie date="2013-03-25T12:26:29Z">ALTO</objetAssocie>
+<historique>
+<traitement ordre="1">
+<agentOperation>Inovcom</agentOperation>
+<operation ordre="1" type="ocerisation">
+<entree date="2013-03-25T12:26:29.3900000+03:00" type="PRODUCT">
+<detailsOperation xmlns="http://bibnum.bnf.fr/ns/detailsOperation">
+<agent role="SEGMENTATIONOCR" type="ATELIER">EasyTech</agent>
+<outil type="LOGICIELOCR">
+<nom>Integrated Conversion System</nom>
+<origine>ISAKO</origine>
+<version>PAGEVIEW 1.4.4714.26636</version>
+</outil>
+</detailsOperation>
+<detailsOperation xmlns="http://bibnum.bnf.fr/ns/detailsOperation">
+<agent role="CONVERSIONOCR" type="ATELIER">EasyTech</agent>
+<outil type="LOGICIELOCR">
+<nom>FineReader Engine</nom>
+<origine>ABBYY</origine>
+<version>10</version>
+</outil>
+</detailsOperation>
+<detailsOperation xmlns="http://bibnum.bnf.fr/ns/detailsOperation">
+<agent role="CONVERSIONALTO" type="ATELIER">EasyTech</agent>
+<outil type="LOGICIELAUTRE">
+<nom>Integrated Conversion System</nom>
+<origine>ISAKO</origine>
+<version>ICS v1.4.1.5</version>
+</outil>
+</detailsOperation>
+</entree>
+<resultat date="2013-03-25T12:26:29.3900000+03:00" type="PRODUCT">
+<resultat xmlns="http://bibnum.bnf.fr/ns/detailsOperation" type="NQAMOYEN">ocr brut 98.5%</resultat>
+<resultat xmlns="http://bibnum.bnf.fr/ns/detailsOperation" type="TAUXOCRDEBASE">95.135%</resultat>
+<resultat xmlns="http://bibnum.bnf.fr/ns/detailsOperation" type="TAUXOCRDEBASECORRIGE">99%</resultat>
+</resultat>
+</operation>
+</traitement>
+</historique>
+</production>
+<structure>
+<commentaire date="2012-05-14T18:28:23" type="PREVERS">Mise à jour pour préversement SPAR</commentaire>
+<commentaire date="2006-06-01T09:39:31" type="PRODUCT">impr. de travers, marges faibles, mauvaise impr., transparence, chiffres peu lisibles</commentaire>
+<vueObjet numeroPage="0" ordre="1" typePage="N" typePagination="N">
+<image cadrage="vueObjet" codeResolution="T" dimension="5154,6969" nomImage="T0000001" profondeur="8" resolution="0300,0300" supportOrigine="PAPIER FEU NB" traitement="MANU" typeFichier="TIF"/>
+
+</vueObjet>
+<vueObjet numeroPage="0" ordre="2" typePage="N" typePagination="N">
+<image cadrage="vueObjet" codeResolution="T" dimension="5067,6946" nomImage="T0000002" profondeur="8" resolution="0300,0300" supportOrigine="PAPIER FEU NB" traitement="MANU" typeFichier="TIF">
+<commentaire date="2006-06-01T09:37:38" type="PRODUCT">impr. effacée col. 1 et 2</commentaire>
+</image>
+</vueObjet>
+<vueObjet numeroPage="0" ordre="3" typePage="N" typePagination="N">
+<image cadrage="vueObjet" codeResolution="T" dimension="5106,6922" nomImage="T0000003" profondeur="8" resolution="0300,0300" supportOrigine="PAPIER FEU NB" traitement="MANU" typeFichier="TIF"/>
+
+</vueObjet>
+<vueObjet numeroPage="0" ordre="4" typePage="N" typePagination="N">
+<image cadrage="vueObjet" codeResolution="T" dimension="5091,6898" nomImage="T0000004" profondeur="8" resolution="0300,0300" supportOrigine="PAPIER FEU NB" traitement="MANU" typeFichier="TIF"/>
+
+</vueObjet>
+</structure>
+</document>
+</refNum>
