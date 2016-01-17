@@ -1,4 +1,4 @@
-## Extracting illustrations from ALTO files With IIIF
+## Extracting illustrations from ALTO files with IIIF
 
 
 ### Synopsis
