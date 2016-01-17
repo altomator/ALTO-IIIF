@@ -23,8 +23,10 @@ The images will be generated in a "IMG" folder.
 
 ### Tests
 1. Open a command line.
-2. Type
-3. 
+2. > filterIMG.sh
+2. > perl traiterURLs.pl illustrations.txt
+3. > perl extractIMG.pl illustrations.txt_URL 200   -- 
+4. > perl extractMD.pl illustrations.txt_URL
 
 
 ## License
