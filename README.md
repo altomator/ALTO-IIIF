@@ -4,6 +4,8 @@
 ### Synopsis
 Extracting illustrations described in OCRed documents (ALTO format) with IIIF API. 
 
+[Full presentation in French](https://altomator.wordpress.com/2015/11/15/extraire-les-illustrations-dune-collection-de-documents-alto-avec-iiif/)
+
 ### Installation
 You will need 4 scripts :
 
